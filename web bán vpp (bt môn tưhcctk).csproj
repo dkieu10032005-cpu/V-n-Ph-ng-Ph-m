@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>web_bán_vpp__bt_môn_tưhcctk_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\tối ưu hóa công cụ tìm kiếm.cs" Link="tối ưu hóa công cụ tìm kiếm.cs" />
+  </ItemGroup>
+
+</Project>
